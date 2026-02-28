@@ -74,8 +74,7 @@ The workflow includes **data loading, preprocessing, train-test splitting, scali
 
 ## 👨‍💻 Author & Contact
 
-- **Name:** Akisha Bhujel  
-- **GitHub:** [akisavujel](https://github.com/akisavujel) 🐱  
+- **Name:** Akisha Bhujel   
 - **LinkedIn:** [akishabhujel](https://www.linkedin.com/in/akishabhujel/) 💼  
 - **Kaggle:** [akisavujel](https://www.kaggle.com/akisavujel) 🏆  
-- **Email:** akishabhujel@example.com 📧
+- **Email:** akishabhujel@gmail.com 📧
