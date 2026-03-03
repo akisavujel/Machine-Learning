@@ -25,8 +25,12 @@ Dataset link: [Download CSV](https://raw.githubusercontent.com/YOUR_USERNAME/YOU
 - TF-IDF vectorized features  
 
 ## ✍️ Author
+Akisha Bhujel 💻🚀  
+Learning and building ML projects | Data Science & Machine Learning Enthusiast
 
-- **Akisha Bhujel 💻🚀**
-- Learning and building ML projects | Data Science & Machine Learning Enthusiast
+<div style="text-align: center;"> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl1N2pybm1tOWJxbTIzcjUya3pseGY2aHA5bmJ4cmM2MTZ3a3poYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6riEABBXLBsfplIFMw/giphy.gif" width="250"> 
+</div>
 
-<div style="text-align: center;"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl1N2pybm1tOWJxbTIzcjUya3pseGY2aHA5bmJ4cmM2MTZ3a3poYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6riEABBXLBsfplIFMw/giphy.gif" width="250"> </div>
+## 💌 Keep Following
+If you liked this project and want to follow my **learning journey in ML & Data Science**, stay connected with me for more projects and updates! 🚀✨
