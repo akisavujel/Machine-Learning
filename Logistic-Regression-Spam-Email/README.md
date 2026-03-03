@@ -26,7 +26,7 @@ Dataset link: [Download CSV](https://raw.githubusercontent.com/YOUR_USERNAME/YOU
 
 ## ✍️ Author
 
-**Akisha Bhujel 💻🚀**
-Learning and building ML projects | Data Science & Machine Learning Enthusiast
+- **Akisha Bhujel 💻🚀**
+- Learning and building ML projects | Data Science & Machine Learning Enthusiast
 
 <div style="text-align: center;"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl1N2pybm1tOWJxbTIzcjUya3pseGY2aHA5bmJ4cmM2MTZ3a3poYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6riEABBXLBsfplIFMw/giphy.gif" width="250"> </div>
