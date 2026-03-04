@@ -17,3 +17,5 @@ Hi, I'm Akisha Bhujel
 This repository serves as a place to document my Machine Learning projects, track my progress, and showcase practical skills through hands-on work.  
 
 ⭐ If you're exploring Machine Learning, feel free to follow along or get inspired!
+
+![Cool Regression GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c0MDlneXFsYXZuazdnbzdiY21xemtsbGZqMmNsZHMzMTk0dGFreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uT5fShyMC3yjZcaB5/giphy.gif)
