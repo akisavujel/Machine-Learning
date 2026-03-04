@@ -24,10 +24,10 @@ The dataset is the **California Housing Dataset** from scikit-learn:
 
 ## 🛠 Tools & Libraries 🧸
 - Python 3.x
-- [Pandas](https://pandas.pydata.org/)  
-- [NumPy](https://numpy.org/)  
-- [Matplotlib](https://matplotlib.org/)  
-- [Scikit-learn](https://scikit-learn.org/stable/)  
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn 
 
 ## 📊 Methodology 🚀
 1. **Data Loading & Exploration**  
