@@ -1,12 +1,14 @@
 # 📊 Learning About Regression: Ridge & Lasso
 
 ## 🚀 Project Overview
+
 This project explores **Ridge and Lasso regression**, two popular regularization techniques in linear models.  
 The goal is to understand how **regularization** helps reduce overfitting and improve model performance.
 
 ## 🛠️ Libraries Used
-``` 
+
 **python**
+``` 
 - import numpy as np
 - import pandas as pd
 - import matplotlib.pyplot as plt
@@ -17,11 +19,13 @@ The goal is to understand how **regularization** helps reduce overfitting and im
 ``` 
 
 ## 💡 Key Learnings
+
 - **🏔️ Ridge Regression:** Reduces overfitting by penalizing large coefficients.
 - **🪢 Lasso Regression:** Can shrink some coefficients to zero, performing feature selection.
 - **⚡ Regularization:** Helps improve model generalization.
 
 ## 🖋️ Author
+
 **Akisha Bhujel**
 
 - GitHub: [https://github.com/akisavujel](https://github.com/akisavujel)
