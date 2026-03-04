@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 from sklearn.linear_model import Ridge, Lasso
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score, mean_squared_error
+from sklearn.metrics import r2_score, mean_squared_error'''
 
 ## 💡 Key Learnings
 
