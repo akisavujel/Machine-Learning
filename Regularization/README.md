@@ -5,7 +5,7 @@ This project explores **Ridge and Lasso regression**, two popular regularization
 The goal is to understand how **regularization** helps reduce overfitting and improve model performance.
 
 ## 🛠️ Libraries Used
-
+``` 
 **python**
 - import numpy as np
 - import pandas as pd
@@ -14,6 +14,7 @@ The goal is to understand how **regularization** helps reduce overfitting and im
 - from sklearn.linear_model import Ridge, Lasso
 - from sklearn.model_selection import train_test_split
 - from sklearn.metrics import r2_score, mean_squared_error
+``` 
 
 ## 💡 Key Learnings
 - **🏔️ Ridge Regression:** Reduces overfitting by penalizing large coefficients.
