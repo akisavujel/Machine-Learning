@@ -1,5 +1,7 @@
 # 📧 Spam Email Detection 🚫📨
 
+[https://github.com/akisavujel/Machine-Learning/blob/5041242285c788b7a637b8673540e686ba00c361/Logistic-Regression/email.png]
+
 **Spam Email Detection using Logistic Regression & TF-IDF Vectorization** 😎
 
 ## 🌟 Project Overview
