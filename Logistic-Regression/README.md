@@ -19,7 +19,7 @@ The dataset contains **1000 emails** with columns:
 📌 `text` → Email content  
 📌 `label` → `spam` or `ham`  
 
-Dataset link: [Download CSV](https://github.com/akisavujel/Machine-Learning/blob/main/Logistic-Regression-Spam-Email/spam_email_dataset.csv)  
+Dataset link: [Download CSV](https://github.com/akisavujel/Machine-Learning/blob/6dd6c09fdf586bf62ef734d512b18e24757ba031/Logistic-Regression/spam_email_dataset.csv)  
 
 ## 🛠️ Features
 - Preprocessed email text (lowercasing, punctuation removal, stopword removal)  
