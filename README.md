@@ -12,6 +12,7 @@ Hi, I'm Akisha Bhujel
 🔗 LinkedIn: https://www.linkedin.com/in/akishabhujel/  
 🔗 Kaggle: https://www.kaggle.com/akisavujel  
 🔗 GitHub: https://github.com/akisavujel  
+🔗 Blogspot: https://akisavujel.blogspot.com/
 
 ## ✨ Why This Repository?  
 This repository serves as a place to document my Machine Learning projects, track my progress, and showcase practical skills through hands-on work.  
