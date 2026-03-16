@@ -1,0 +1,101 @@
+customer_id,name,age,gender,signup_date,last_purchase_date,total_purchases,total_spent,country,email,device_type,is_subscribed,feedback_score
+9042c717-0fd5-4581-a027-91d9758eaca8,George Jones,19,Female,2023-05-17,2024-04-02,18,8864.01,Turkey,georgejones12@example.com,Mobile,0,1.4
+b6f7fde5-4473-470f-a419-153fd25fd8f1,William Nelson,56,Male,2023-02-12,2025-05-09,29,5445.59,India,williamnelson1@example.org,Desktop,1,2.1
+e997aecb-5427-469a-a0c5-59a9e417f31d,Jennifer Young,24,Male,2022-07-18,2025-01-05,109,4193.07,India,jenniferyoung6@example.com,Mobile,0,4.9
+6522d7c2-bcef-48f9-b0d6-2fd8e7b4ef0d,Christopher Williams,53,Male,2024-01-11,2024-01-29,91,927.71,Brazil,christopherwilliams99@example.net,Tablet,0,4.5
+d6ebe5ab-14e2-4b64-b1eb-1ad16df6e854,Christopher Harris,47,Female,2024-01-18,2023-11-30,48,4327.72,India,christopherharris90@example.com,Desktop,0,3.1
+dce5b7f4-a6e8-4583-a4a1-fc4621c7593b,Lisa Wilson,47,Male,2025-02-14,2024-03-25,88,3958.96,Eritrea,lisawilson30@example.org,Desktop,1,2.1
+7ec14679-720a-41a0-9234-6875f9808d7a,Jennifer Campbell,74,Female,2023-03-12,2025-10-19,51,10627.73,Mexico,jennifercampbell19@example.net,Mobile,1,4.0
+6ec7aee4-50ee-41bd-9708-79421510a99d,Dorothy Mitchell,43,Male,2022-10-11,2025-11-09,64,1181.82,Eritrea,dorothymitchell15@example.org,Desktop,1,3.4
+12bfb494-d251-4e97-8880-9f8979dbd4cb,Christopher Wright,56,Other,2024-12-19,2024-05-29,71,10343.28,Bangladesh,christopherwright88@example.com,Mobile,1,4.1
+abd32bc1-6571-4b3c-bbd8-d3a35b148b63,Betty Jones,36,Male,2024-07-18,2023-01-07,93,10522.65,India,bettyjones65@example.org,Mobile,0,4.5
+0d0ff61f-a8aa-4549-acc0-a5cd776aae2f,Nancy Nelson,56,Male,2024-02-05,2023-11-27,70,11446.65,Argentina,nancynelson1@example.com,Mobile,0,1.4
+b278f9a0-4fd2-43fa-8f6a-0bca368f4528,Sandra Martin,33,Male,2025-03-07,2023-06-11,11,8809.7,Russian Federation,sandramartin98@example.com,Desktop,0,3.6
+1ee8503b-e165-4e5b-a159-ba807e7985b5,Sharon Wilson,34,Female,2025-05-27,2025-05-16,28,11154.07,Germany,sharonwilson92@example.net,Mobile,1,2.8
+0c4f41c4-f12f-49f3-a470-04c5bb3c1e3a,Ruth Hill,25,Male,2022-05-12,2024-11-23,3,7100.87,Brazil,ruthhill76@example.org,Mobile,0,1.9
+5ad579d7-3429-43e4-954c-e28c9719c566,John Young,22,Female,2023-07-25,2025-09-21,28,6516.88,Indonesia,johnyoung74@example.net,Mobile,1,4.2
+8b4a2a68-232e-4c77-b313-6445f4b74df1,Robert Brown,24,Female,2023-12-27,2025-05-17,53,5657.59,Eritrea,robertbrown87@example.com,Tablet,0,1.2
+66791062-9f2d-433a-92b0-81736b272068,Brian Young,69,Female,2023-05-25,2024-01-28,25,6481.8,Mauritius,brianyoung55@example.org,Mobile,0,4.5
+f7ca7ff6-a1d6-4265-a112-a64a0e2ff2f4,Amy Hill,69,Female,2025-02-01,2023-07-20,7,7860.52,Turkey,amyhill2@example.org,Tablet,0,1.7
+2fe7fc0f-5aaa-40c7-9261-64a85db5f01e,Carol Green,31,Female,2022-05-01,2023-12-04,49,125.65,France,carolgreen34@example.net,Mobile,1,1.6
+67f1bdce-c9e4-43e7-8ca5-a08ad42bda09,Joseph Taylor,21,Female,2025-01-15,2023-05-05,96,3831.9,Eritrea,josephtaylor75@example.net,Mobile,0,1.2
+0ce443dc-ac79-4711-a505-af81a2f9b073,Donald Williams,72,Male,2025-05-03,2023-05-20,87,10355.65,France,donaldwilliams16@example.com,Mobile,0,3.5
+025b80ab-75d8-4882-83d4-7c4ef2d1dfd2,Daniel Mitchell,54,Female,2023-06-19,2024-02-23,86,8622.68,Brazil,danielmitchell34@example.net,Mobile,1,2.8
+50435600-05f2-423f-8fda-72b277e0e8cc,Ronald Johnson,18,Female,2025-02-27,2023-07-24,10,6497.85,Argentina,ronaldjohnson34@example.org,Tablet,0,4.5
+2833e075-2904-46c2-b7f1-acb7de43654a,Sandra Thompson,28,Male,2025-01-17,2024-09-11,79,11807.85,Argentina,sandrathompson2@example.com,Desktop,1,4.7
+9f56362f-e536-49d5-9515-53013833bb80,Michael Garcia,34,Male,2022-08-08,2023-11-15,35,3452.9,Germany,michaelgarcia92@example.net,Mobile,1,3.0
+1c151929-f788-4ff2-a5c0-edc5a146e60e,Richard Nolan,23,Female,2023-07-21,2023-04-01,1,4069.32,Mauritius,richardnolan82@example.net,Mobile,1,3.2
+26741595-61f2-4271-bbbe-fefff0054c5f,Dorothy Rivera,18,Male,2022-11-02,2023-03-15,107,4493.67,Turkey,dorothyrivera19@example.net,Mobile,1,2.5
+70872dc8-2c5b-464b-a132-314323fc5fed,John Allen,31,Female,2022-07-30,2024-12-25,100,6762.61,Nigeria,johnallen80@example.com,Mobile,0,4.5
+02c166b9-eeac-40d4-a2a9-286328713622,Ashley Torres,19,Male,2023-11-12,2025-04-23,103,8071.89,Brazil,ashleytorres35@example.org,Desktop,0,2.5
+15ba2bda-1d38-4ae8-9768-77fd0809b843,John Green,32,Male,2024-07-31,2024-12-17,40,9864.38,Brazil,johngreen29@example.org,Desktop,1,2.3
+7f331f27-2c49-4e84-b84f-8fa8cb986370,Amy Harris,40,Female,2024-03-29,2024-11-09,4,1472.57,India,amyharris23@example.com,Tablet,1,1.2
+36640598-6319-45fb-93d1-a6333e6a2c0b,Steven Nguyen,40,Female,2023-10-05,2025-06-12,78,11812.41,Serbia,stevennguyen50@example.com,Mobile,0,3.8
+3b6c99bb-4b11-46d9-955c-a9137d55946d,Andrew Baker,69,Female,2023-02-08,2025-01-15,56,932.69,Canada,andrewbaker80@example.net,Desktop,0,3.9
+bbc0ae1e-4e8e-4a22-8ace-0645ab0a09e7,Nancy Nelson,37,Female,2023-10-31,2025-04-04,90,3618.3,Mauritius,nancynelson25@example.net,Desktop,1,3.7
+c9e68877-9756-4852-aec4-fbf55ff40d7b,Ashley Roberts,54,Male,2025-01-27,2023-01-01,39,3514.27,Nigeria,ashleyroberts75@example.com,Desktop,1,2.8
+99800f0b-1074-401f-9468-a51bc7facf2e,Kimberly Taylor,50,Female,2022-12-14,2023-06-23,37,6233.88,Pakistan,kimberlytaylor43@example.org,Desktop,0,3.7
+d58c613b-c0c0-4a3e-b0d3-218019466c6f,William Anderson,27,Male,2023-05-17,2025-08-31,79,10211.88,Russian Federation,williamanderson59@example.net,Desktop,0,3.9
+0a985624-2154-4a46-befb-90451349d87d,Christopher Adams,43,Male,2022-01-12,2023-08-07,100,5159.24,United States,christopheradams90@example.com,Mobile,0,4.7
+69452dd1-7c78-4c06-acd9-cbb376a368b9,Emily Flores,26,Female,2024-12-23,2024-10-11,97,10707.97,Pakistan,emilyflores93@example.com,Mobile,1,4.6
+7b7cc9e7-e4da-4ffa-9b49-f7dfc19342d9,Dorothy Green,46,Male,2023-05-22,2024-07-21,99,9354.33,South Africa,dorothygreen81@example.org,Mobile,0,3.9
+a2adefbf-3ec2-4bee-8271-1736608ffe1c,Lisa Harris,39,Male,2025-01-11,2023-06-15,18,1894.88,France,lisaharris89@example.org,Desktop,0,2.7
+d56af671-a9f1-481c-ad50-941993a1aed1,Betty Hall,47,Male,2023-02-28,2025-05-10,50,10867.58,Indonesia,bettyhall90@example.org,Desktop,1,2.9
+a22d01ca-22c2-4115-aab3-a95b992b2020,Charles Martin,66,Male,2024-05-08,2024-03-27,63,2711.12,Nigeria,charlesmartin63@example.org,Mobile,1,3.9
+6b4ffe44-4a46-4dcf-923a-c007f9d4ab64,Susan Garcia,57,Female,2024-03-17,2023-02-25,11,7748.72,Mauritius,susangarcia60@example.org,Mobile,1,2.3
+862b1f6d-97f6-4681-b38a-4b8d62c30c28,Susan Moore,39,Female,2024-02-16,2024-07-23,97,11419.33,Nigeria,susanmoore33@example.org,Mobile,0,5.0
+f98b4726-312e-451a-ba06-b7dd86d66574,Charles Thomas,59,Male,2022-03-24,2023-03-05,32,2472.39,Bangladesh,charlesthomas80@example.org,Mobile,1,3.7
+dd15d02d-8e9e-4679-8fc0-398ccf5f5a07,Paul Taylor,47,Female,2024-01-26,2023-12-10,78,7326.25,Serbia,paultaylor21@example.net,Mobile,0,4.7
+016eb4fb-62ef-4f2b-9cba-3cd9007f8b43,Paul Wright,43,Other,2023-02-11,2023-06-05,76,8318.31,Brazil,paulwright14@example.com,Desktop,0,4.2
+b175c5c6-5770-4172-84cd-8556bf052dc7,Paul Smith,40,Female,2024-01-29,2023-05-22,65,7805.76,Bangladesh,paulsmith54@example.net,Mobile,1,3.5
+d9dce467-82cf-43e1-bd67-6fdc5cd1e8b7,Susan Davis,45,Male,2024-12-04,2024-07-07,79,9717.57,Turkey,susandavis62@example.net,Mobile,1,2.3
+33e29844-8be8-44a4-92e3-1030122e2715,Lisa Williams,35,Female,2023-05-15,2025-08-09,73,7362.95,France,lisawilliams44@example.org,Mobile,1,1.7
+b7a39c68-9553-4800-b738-35ed7cd963ff,Jennifer Allen,69,Male,2023-07-27,2024-07-19,72,220.8,Germany,jenniferallen11@example.org,Desktop,1,3.2
+20416180-e4ad-4326-8179-370304645c91,Lisa Green,59,Female,2024-07-06,2023-02-05,12,3601.4,France,lisagreen89@example.org,Mobile,1,2.9
+905d918b-c5d7-4de8-a137-00e0ef8d8a50,Ruth Allen,45,Other,2025-02-01,2024-11-08,46,8463.97,India,ruthallen40@example.net,Mobile,0,2.3
+7932c03d-f15f-4370-822f-d9c1ef94794c,Dorothy Hall,66,Female,2023-01-28,2024-03-19,95,5861.96,Indonesia,dorothyhall98@example.com,Mobile,0,4.3
+747c50df-d635-478c-8aab-02ee089a322f,Joseph Thomas,41,Male,2022-01-29,2025-12-29,17,3364.3,Eritrea,josephthomas71@example.net,Desktop,0,3.6
+c102835f-c956-4c02-9ff7-5c4117da8a6c,Ronald Adams,24,Female,2025-03-21,2024-08-05,61,5796.7,Canada,ronaldadams24@example.org,Mobile,1,1.5
+2e507244-091e-4c76-aacc-07fe6731255c,Amy Scott,49,Male,2022-04-20,2023-11-07,20,9752.59,Japan,amyscott11@example.org,Mobile,1,3.4
+5f9ea39e-ef9f-41d9-b750-72f447760d3b,Laura Thomas,67,Female,2024-07-11,2025-06-25,39,10335.98,Nigeria,laurathomas40@example.com,Desktop,0,4.8
+a3a5ef3a-88af-4bce-8fc4-a18b86fa63b5,Jennifer Taylor,34,Female,2022-11-18,2024-05-06,23,6668.71,United States,jennifertaylor1@example.net,Mobile,1,2.2
+9ef3d891-e47e-4f1b-aef1-3b67b64e65c6,William Thompson,63,Male,2024-07-18,2023-05-26,88,2877.74,India,williamthompson81@example.com,Desktop,0,2.7
+f78c009e-e43a-4b05-a803-82784bcd6b7d,Mark Thomas,59,Male,2023-06-29,2023-10-19,10,809.69,Japan,markthomas77@example.com,Desktop,1,2.8
+f926287b-fc00-4014-a3d3-b549da33a7d0,Susan Martin,62,Male,2023-07-12,2025-10-21,70,5976.16,Russian Federation,susanmartin77@example.org,Desktop,1,3.4
+ccad1ef8-369b-4fcb-bede-f5998e58f1d7,Kevin Williams,32,Other,2025-03-24,2023-02-12,98,8100.15,India,kevinwilliams74@example.org,Desktop,0,2.9
+74938637-aafc-459c-9a4b-0d15f6adde24,Sarah Hill,35,Male,2025-04-13,2025-06-11,82,9789.51,Russian Federation,sarahhill61@example.net,Mobile,1,3.7
+132fbd5e-cb4c-4a36-9eff-0f2255277a95,James Young,44,Female,2023-08-14,2025-03-31,105,9149.95,Eritrea,jamesyoung59@example.org,Mobile,1,1.5
+b13a7cbb-a509-4592-a694-8fc71bcb1661,Stephanie Scott,73,Female,2022-01-03,2025-08-04,53,745.03,Argentina,stephaniescott47@example.com,Desktop,1,4.0
+869c525e-1898-4538-8f57-38d94007fff7,Jennifer Harris,53,Male,2023-08-13,2025-06-16,113,8409.18,Serbia,jenniferharris4@example.com,Desktop,0,3.8
+0ce625db-b687-4d38-9e2c-76b7be63c14f,Nancy Rivera,18,Female,2022-07-10,2024-04-05,108,10963.87,Mexico,nancyrivera16@example.com,Desktop,1,4.7
+5c21c298-0b1f-440d-aeb3-d131e69875b4,Joseph Nelson,63,Male,2024-09-15,2025-08-25,32,5535.76,Mauritius,josephnelson50@example.org,Tablet,0,4.5
+3b325fa3-dd6b-4980-93fc-ae1b64705b52,Karen Torres,39,Other,2024-11-05,2024-07-01,106,130.53,Japan,karentorres76@example.com,Tablet,1,4.5
+0a134a57-14cf-4d35-9e4f-52a90de7a984,Matthew Hall,48,Male,2025-02-04,2025-02-11,59,11200.94,Germany,matthewhall90@example.org,Mobile,0,4.4
+fb288c5c-463f-4141-9262-08dd7f3c7e00,Daniel Smith,38,Female,2024-02-20,2025-03-01,85,9529.48,Mauritius,danielsmith64@example.org,Mobile,1,4.5
+9bebfd66-bd74-4842-a3c6-2855cb631754,Matthew Brown,51,Other,2022-02-01,2023-10-23,53,10464.1,Mauritius,matthewbrown10@example.net,Desktop,1,2.4
+e3f7a075-ca99-467c-b2c0-7148f4a9f6b4,Edward Scott,59,Male,2023-11-04,2025-12-28,49,11454.26,South Africa,edwardscott70@example.org,Desktop,0,3.5
+e28bff67-9df5-4797-a0fa-876b23abc1cb,Joseph Thomas,65,Male,2022-07-21,2023-07-25,57,2079.74,Japan,josephthomas4@example.org,Mobile,0,2.2
+eba96dd1-1760-46dd-850e-5d4a613c7f8b,Sandra Nguyen,27,Male,2024-04-23,2024-01-04,22,2183.33,Pakistan,sandranguyen49@example.com,Desktop,1,4.7
+89d275bf-d9ee-4972-9ed1-d18cff4dd451,Jessica Thomas,47,Female,2024-07-30,2024-06-06,86,211.83,Mexico,jessicathomas37@example.com,Mobile,0,2.8
+d04319ef-3e21-4a08-bbfa-9c0cbdd7ca91,Charles Mitchell,37,Female,2024-05-18,2024-05-27,59,10159.12,Germany,charlesmitchell50@example.net,Mobile,1,3.3
+1d4b08aa-d8ec-466d-8417-51d7291b47ac,Paul Thompson,62,Male,2024-03-21,2024-07-16,2,6834.56,Eritrea,paulthompson78@example.com,Mobile,1,4.1
+7215f069-869b-4dea-b37e-bacb2ef5b96f,William Carter,69,Male,2023-01-25,2024-05-28,87,9091.37,Mauritius,williamcarter81@example.org,Tablet,0,2.2
+dc6925d8-dcc6-4127-a36d-e5c1b24af9fe,Matthew Smith,55,Male,2022-09-27,2023-07-04,117,3611.81,Nigeria,matthewsmith23@example.org,Mobile,1,3.1
+65f6105c-0fcf-4b96-b74f-6c623c3f54b8,Karen Wilson,34,Other,2024-09-13,2024-08-27,96,10457.72,Serbia,karenwilson60@example.org,Mobile,0,4.4
+48215be2-bcfb-4817-86d1-76da2b34ea31,Brian Scott,72,Female,2024-01-20,2023-07-04,102,4795.44,India,brianscott69@example.org,Mobile,1,3.3
+e21c8549-9c11-499c-bac0-87d013e9a578,George King,24,Female,2024-08-23,2023-02-21,80,10622.39,Turkey,georgeking42@example.com,Mobile,0,3.5
+72d20d33-8526-4e3e-ad5a-0eb5bf62a8fb,Susan Martin,59,Male,2022-10-14,2023-04-03,5,3721.94,South Africa,susanmartin15@example.org,Mobile,0,2.6
+b3863c12-8ec6-4a2f-9642-b159aab7037c,Sandra Hall,44,Female,2022-11-13,2025-04-29,84,1278.36,South Africa,sandrahall79@example.net,Tablet,1,1.1
+2a5aa6c8-54c1-4cf4-a355-b216d5d310b1,Sandra Taylor,46,Male,2023-04-29,2025-01-12,13,11773.04,Australia,sandrataylor70@example.com,Mobile,1,2.1
+f1b8fb57-f794-4cf4-bab8-6f64ed949cb6,Emily Flores,23,Female,2025-05-07,2023-02-13,7,9462.86,Brazil,emilyflores17@example.com,Mobile,0,3.3
+335eb5bc-9f2b-4bc5-adb9-5e6e004e3bc4,William Young,67,Male,2025-05-05,2023-01-06,36,10315.03,Mauritius,williamyoung17@example.com,Mobile,0,1.4
+b5afd9ed-1a0b-478f-b76c-68d0bbeee06b,Kevin Garcia,18,Male,2023-05-03,2024-10-25,3,2173.53,Eritrea,kevingarcia17@example.com,Mobile,0,4.0
+d1fecab9-8cbe-443e-81dd-29bf2397b46c,Anthony Hill,67,Male,2025-04-30,2023-08-12,58,6095.68,Pakistan,anthonyhill6@example.com,Desktop,1,2.8
+e6efb208-c999-4c45-80f8-0d0a23e4bc36,Kevin Nolan,48,Female,2024-05-23,2023-08-10,63,8577.58,Mexico,kevinnolan10@example.org,Mobile,0,1.3
+a715a4d1-3ba8-4a3b-ba87-de315797f001,Karen Roberts,58,Female,2023-10-28,2025-02-19,77,6413.63,Mexico,karenroberts65@example.com,Mobile,0,4.4
+49525a48-c932-460e-bad2-49add25c5d26,Sarah Rivera,64,Female,2024-05-30,2025-07-13,114,2819.07,Canada,sarahrivera59@example.net,Mobile,0,2.3
+25d558a8-f749-4951-a563-f2b6f5ac2bef,Thomas White,41,Other,2024-08-29,2023-05-18,12,9998.09,Russian Federation,thomaswhite56@example.org,Desktop,1,4.2
+1309bf9c-84cb-4a82-8b1e-f93063843c5d,Sharon Nolan,55,Other,2025-02-24,2024-11-06,86,1554.55,Australia,sharonnolan86@example.net,Desktop,0,4.9
+e6851716-3746-4dec-ad58-8bb493e2199d,Steven Martin,40,Male,2024-11-05,2024-03-11,20,7915.16,Brazil,stevenmartin14@example.net,Desktop,1,1.5
+4085aa51-9d37-47a4-9d41-721f4b4e7f94,Karen Campbell,32,Female,2025-02-22,2023-02-23,78,11156.1,India,karencampbell4@example.org,Mobile,1,4.7
+15aaa7cb-b48c-4a53-8975-688a3e5480f4,Charles Miller,29,Female,2025-03-05,2025-03-31,9,1788.31,Bangladesh,charlesmiller12@example.com,Mobile,1,2.7
